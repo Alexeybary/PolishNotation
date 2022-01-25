@@ -1,0 +1,5 @@
+"D:\program\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\dz\PolishNotation
+-- Could NOT find Python (missing: Python_EXECUTABLE Interpreter) 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/dz/PolishNotation/cmake-build-debug

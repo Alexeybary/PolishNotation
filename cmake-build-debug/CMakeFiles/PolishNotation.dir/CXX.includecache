@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/dz/PolishNotation/PolishNotation.h
+iostream
+-
+string
+-
+vector
+-
+stackList.h
+D:/dz/PolishNotation/stackList.h
+sstream
+-
+cctype
+-
+
+D:/dz/PolishNotation/main.cpp
+iostream
+-
+PolishNotation.h
+D:/dz/PolishNotation/PolishNotation.h
+string
+-
+
+D:/dz/PolishNotation/stackList.h
+initializer_list
+-
+string
+-
+
